@@ -1,0 +1,16 @@
+# SPDX-FileCopyrightText: 2024 Adafruit Industries
+#
+# SPDX-License-Identifier: MIT
+
+# This is where you store the credentials necessary for your code.
+# The associated demo only requires WiFi, but you can include any
+# credentials here, such as Adafruit IO username and key, etc.
+
+# CIRCUITPY_WIFI_SSID = ""
+# CIRCUITPY_WIFI_PASSWORD = ""
+
+CIRCUITPY_DISPLAY_WIDTH = 640
+CIRCUITPY_DISPLAY_HEIGHT = 480
+CIRCUITPY_DISPLAY_COLOR_DEPTH = 8
+
+CIRCUITPY_DISPLAY_ROTATION = 90
